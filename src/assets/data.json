@@ -1,0 +1,271 @@
+{
+  "projects": [
+    {
+      "price":"85",
+      "category":"Veg",
+      "quantity":1,
+      "id":1,
+      "title": "Panner Butter Masala",
+      "description": "Delicious, Creamy, Indulgent",
+      "imgSrc": "https://img.freepik.com/premium-photo/delicious-paneer-butter-masala-photography_928503-851.jpg?w=740"
+      
+    },
+
+    {
+      "price":"120",
+      "category":"Veg",
+      "quantity":1,
+      "id":2,
+      "title": "Mushroom masala",
+      "description": "Savory, Earthy, Aromatic",
+      "imgSrc": "https://mypureplants.com/wp-content/uploads/2018/09/Simple-Chickpea-Curry-Indian.jpg"
+    },
+   
+
+    {
+      "price":"44",
+      "category":"Veg",
+      "quantity":1,
+      "id":3,
+      "title": "Aloo-paratha",
+      "description":"Satisfying, Fluffy, Flavorful",
+      "imgSrc": "https://img.freepik.com/premium-photo/aloo-paratha-gobi-paratha-also-known-as-potato-cauliflower-stuffed-flatbread-dish-originating-from-indian-subcontinent_1093310-540.jpg?w=826"
+    },
+    {
+    
+      "title": "Fried Rice",
+      "price":"110",
+      "quantity":1,
+      "id":4,
+      "category":"Veg",
+      "description": "Savory, Fragrant, Versatile",
+      "imgSrc": "https://dfbkuy5licyr9.cloudfront.net/wp-content/uploads/2019/01/iStock-945606006.jpg?x39145"
+    },
+    {
+    
+      "title": "Mix Veg",
+      "price":"60",
+      "quantity":1,
+      "id":5,
+      "category":"Veg",
+      "description": "Hearty, Colorful, Nutritious",
+      "imgSrc": "https://img.freepik.com/premium-photo/mix-vegetable-curry-indian-main-course-recipe-contains-carrots-cauliflower-green-peas-beans-baby-corn-capsicum-paneer-cottage-cheese-with-traditional-masala-curry_466689-35791.jpg?w=826"
+    },
+    {
+    
+      "title": "Chole Bhature",
+      "price":"160",
+      "category":"Veg",
+      "quantity":1,
+      "id":6,
+      "description": "Tasty, Filling, Flavorful",
+      "imgSrc": "https://media.vogue.in/wp-content/uploads/2020/08/chole-bhature-recipe.jpg"
+    },
+    {
+      
+      "title": "Palak Panner",
+      "price":"154",
+      "quantity":1,
+      "id":7,
+      "category":"Veg",
+      "description": "Savory, Earthy, Aromatic",
+      "imgSrc": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/06/palak-paneer-1.jpg"
+    }
+
+    
+  ],
+  "NonVeg":[
+      {
+        "title":"Chicken Curry",
+        "price":"120",
+        "quantity":1,
+        "id":8,
+        "category":"Non-Veg",
+        "description":"Savory, Earthy, Aromatic",
+        "imgSrc":"https://shemins.scdn2.secure.raxcdn.com/wp-content/uploads/2018/09/shutterstock_94334989-537x537.jpg"
+      },
+      {
+        "title":"Egg Curry",
+        "price":"70",
+         "quantity":1,
+         "id":9,
+        "category":"Non-Veg",
+        "description":"Creamy, Spicy, Flavorful",
+        "imgSrc":"https://as2.ftcdn.net/v2/jpg/05/45/04/09/1000_F_545040926_Fd7TY5kXcLuBHyJRAXaajrv949qVB3GC.jpg"
+      },
+      {
+        "title":"Chicken Pakora",
+        "price":"60",
+        "quantity":1,
+        "id":10,
+        "category":"Non-Veg",
+        "description":"Crispy, Spicy, Succulent",
+        "imgSrc":"https://img.freepik.com/premium-photo/chicken-pakoda-pakorathree-different-flavors-pakora-arranged-white-square-plate_527904-1301.jpg?w=826"
+      },
+      {
+        "title":"Egg Bhurji",
+        "price":"44",
+         "quantity":1,
+         "id":11,
+        "category":"Non-Veg",
+        "description":"Spicy, Scrambled, Flavorful",
+        "imgSrc":"https://www.whiskaffair.com/wp-content/uploads/2020/07/Egg-Bhurji-2-1.jpg"
+      },
+      {
+        "title":"Egg Omelette",
+        "price":"25",
+        "quantity":1,
+        "id":12,
+        "category":"Non-Veg",
+        "description":"Fluffy, Satisfying, Versatile",
+        "imgSrc":"https://assets.epicurious.com/photos/54cad8d21f13bb9b2edf9930/1:1/w_1920,c_limit/51262180_cheese-omelette_1x1.jpg"
+      },
+      {
+        "title":"Chicken Paratha",
+        "price":"30",
+        "quantity":1,
+        "id":13,
+        "category":"Non-Veg",
+        "description":"Savory, Stuffed, Delicious",
+        "imgSrc":"https://www.licious.in/blog/wp-content/uploads/2020/04/shutterstock_83591092.jpg"
+      }
+  ],
+  "Chinese":[
+    {
+      "title":"Momos",
+      "price":"60",
+       "quantity":1,
+       "id":14,
+      "category":"Chinese",
+      "description":"Steamed, Dumplings, Flavorful",
+      "imgSrc":"https://img.freepik.com/premium-photo/plate-food-with-bowl-red-sauce-it_667286-853.jpg"
+    },
+    {
+      "title":"chowmein noodles",
+      "price":"35",
+      "quantity":1,
+      "id":15,
+      "category":"Chinese",
+      "description":"Tasty, Stir-fried, Noodles",
+      "imgSrc":"https://www.recipetineats.com/wp-content/uploads/2023/07/Beef-chow-mein_5.jpg"
+    }
+    ,
+    {
+      "title":"Manchurian",
+      "price":"45",
+       "quantity":1,
+       "id":16,
+      "category":"Chinese",
+      "description":"Spicy, Tangy, Indo-Chinese",
+      "imgSrc":"https://myfoodstory.com/wp-content/uploads/2021/10/Veg-Manchurian-2.jpg"
+    }
+    ,
+    {
+      "title":"Pizza",
+      "price":"99",
+      "quantity":1,
+      "id":17,
+      "category":"Chinese",
+      "description":"Cheesy, Crispy, Delicious",
+      "imgSrc":"https://www.southernliving.com/thmb/j_6gABRIAMegN6RFHxOgbUqBxjA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2652401_QFSSL_SupremePizza_00072-d910a935ba7d448e8c7545a963ed7101.jpg"
+    }
+    ,
+    {
+      "title":"Pasta",
+      "category":"Chinese",
+      "price":"65",
+      "id":18,
+      "quantity":1,
+      "description":"Creamy, Al dente, Flavorful",
+      "imgSrc":"https://www.tastingtable.com/img/gallery/14-pasta-dishes-from-around-the-world/intro-1673017481.webp"
+    }
+    ,
+    {
+      "title":"Veg Roll",
+      "price":"70",
+      "quantity":1,
+      "id":19,
+      "category":"Chinese",
+      "description":"Crispy, Flavorful, Filling",
+      "imgSrc":"https://as2.ftcdn.net/v2/jpg/01/92/41/87/1000_F_192418722_qRomntUue8tACA5MXf4XxCjCN2hwxcWe.jpg"
+    }
+    
+  ],
+  "Biryani":[
+    {
+      "title":"Veg Biryani",
+      "price":"120",
+      "quantity":1,
+      "id":20,
+      "category":"Biryani",
+      "description":"Fragrant, Spicy, Flavorful",
+      "imgSrc":"https://www.watchwhatueat.com/wp-content/uploads/2020/01/Instant-Pot-Vegetable-Biryani-With-Authentic-flavors-8.jpg"
+    },
+    {
+      "title":"Chicken Biryani",
+      "price":"140",
+      "quantity":1,
+      "id":21,
+      "category":"Biryani",
+      "description":"Spicy, Fragrant, Flavorful",
+      "imgSrc":"https://i0.wp.com/southindianrecipes.in/wp-content/uploads/2021/06/Chicken-Biryani.jpg?resize=768%2C1024&ssl=1"
+    },
+    {
+      "title":"Egg Biryani",
+      "price":"150",
+      "quantity":1,
+      "id":22,
+      "category":"Biryani",
+      "description":"Rich, Aromatic, Flavorful",
+      "imgSrc":"https://static.toiimg.com/thumb/52397749.cms?imgsize=299414&width=509&height=340"
+    },
+    {
+      "title":"Paneer Biryani",
+      "price":"130",
+      "quantity":1,
+      "id":23,
+      "category":"Biryani",
+      "description":"Creamy, Fragrant, Flavorful",
+      "imgSrc":"https://www.tomatoblues.com/wp-content/uploads/2022/09/paneer-biryani-1-720x1087.jpg"
+    }
+   
+   
+  ],
+  "SoutIndian":[
+    {
+      "title":"Dosa",
+      "price":"55",
+      "quantity":1,
+      "id":24,
+      "category":"South-Indian",
+      "description":"Crispy, Savory, Delicious",
+      "imgSrc":"https://www.awesomecuisine.com/wp-content/uploads/2009/06/Plain-Dosa.jpg"
+    },
+    {
+      "title":"Idli Sambhar",
+      "price":"35",
+      "quantity":1,
+      "id":25,
+      "category":"South-Indian",
+      "description":"Soft, Steamed, Spongy",
+      "imgSrc":"https://maayeka.com/wp-content/uploads/2013/10/soft-idli-recipe.jpg.webp"
+    },  {
+      "title":"Uttapam",
+      "price":"56",
+      "quantity":1,
+      "id":26,
+      "category":"South-Indian",
+      "description":"Spongy, Flavorful, Savory",
+      "imgSrc":"https://ministryofcurry.com/wp-content/uploads/2020/09/uttapam-5.jpg"
+    },  {
+      "title":"Medu Vada",
+      "price":"45",
+      "quantity":1,
+      "id":24,
+      "category":"South-Indian",
+      "description":"Crispy, Fluffy, Savory",
+      "imgSrc":"https://myfoodstory.com/wp-content/uploads/2022/09/Medu-Vada-2-1024x1536.jpg"
+    }
+  ]
+
+}

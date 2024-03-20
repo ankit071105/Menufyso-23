@@ -1,0 +1,104 @@
+body{
+  background-color: rgb(91, 126, 196);
+}
+#home::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%; 
+    height: 30%;
+     background-repeat: no-repeat;
+ background-size: cover;
+ background-position: center;
+        background-image:url("../assets/food.jpg");
+    opacity: 0.6;
+    z-index: -1;
+}
+
+
+.heading{
+position: relative;
+font-size: 80px;
+   margin-top: 5%;
+text-align: center;
+   font-family: 'Times New Roman', Times, serif;
+   margin-left: -400px !important;
+  
+}
+.div{
+    animation: up 0.7s linear infinite  alternate ;
+    text-align: center;
+}
+@keyframes up {
+    to{
+        transform: translateY(-10px);
+    }
+}
+.type{
+    font-size: large;
+    color: red;
+}
+#items{
+    transform: translateY(-8%);
+    background-color: rgb(106, 145, 224);
+    border-radius: 0 0 40px 40px;
+}
+#boxx{
+    
+    width: 78%;
+    margin: 0 auto;
+    margin-top: 10%;
+    transform: translateY(30%);
+
+    padding-top: 1%;
+    background-color: rgb(202, 239, 255);
+    border-radius: 20px;
+    
+}
+.itemsheading{
+    transform: translateX(2%);
+    border-bottom: 2px solid rgb(37, 10, 70);
+    
+}
+.caro{
+    background-color: rgb(57, 124, 153);
+}
+.btnn {
+    cursor: pointer;
+    background-color: $secondary;
+    border: none;
+    padding: 1rem;
+    color: $tertiary;
+    border-radius: 5px;
+    transition: all 0.5s;
+    font-weight: 500;
+    width: 100%;
+    height: 10%;
+  }
+  .btnn:hover {
+    background-color:  rgb(197, 72, 18);
+  }
+  .btnt{
+    transition: 'all' 0.5s;
+  }
+
+  .btnn:hover {
+    transform: scale(1.05);
+  }
+.my{
+   text-align: center;
+   align-items: center;
+
+}
+.yy{
+    margin-left: -100px;
+}
+.icon{
+align-items: center;
+margin-left: -400px;
+}
+#icon{
+    align-items: center;
+    margin-left: -250px;
+    }

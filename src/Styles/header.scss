@@ -1,0 +1,49 @@
+@import "colors";
+
+nav {
+  background-color: rgb(165, 242, 255);
+  display: flex;
+  justify-content: space-between;
+  box-shadow: 0 18px 20px 0 rgba(15, 0, 34, 0.9);
+  border-bottom: 8px solid rgb(184, 255, 254);
+  padding: 0rem 2rem;
+  border-radius: 20px 20px 20px 20px;
+  height: 90px;
+  
+
+  > h2 {
+    text-transform: uppercase;
+    color: $primary;
+    // transform: translateX(4%);
+    
+  }
+
+  > div {
+    display: flex;
+    align-items: center;
+
+    > a {
+      color: $primary;
+      font-size: 1.2rem;
+      text-decoration: none;
+      margin: 0 1rem;
+      transition: all 0.3s;
+      &:hover {
+        opacity: 0.5;
+      }
+
+      > p {
+        position: absolute;
+        background-color: $tertiary;
+        
+        border-radius: 50%;
+        width: 15px;
+        height: 15px;
+        font: 900 0.7rem "Roboto";//900 is to make the it bold
+        display: flex;
+        justify-content: center;
+        transform: translate(80%, -80%);
+      }
+    }
+  }
+}
