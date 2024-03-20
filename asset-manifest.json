@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Menufy/static/css/main.e4c27719.css",
-    "main.js": "/Menufy/static/js/main.3b0d2932.js",
-    "static/media/food.jpg": "/Menufy/static/media/food.b54a5ecc4a718f2126f3.jpg",
-    "static/media/MenuFy.png": "/Menufy/static/media/MenuFy.46471b3dddedfe4353d9.png",
-    "static/media/menufy2.png": "/Menufy/static/media/menufy2.8327f9a6644e7bba5473.png",
-    "static/media/11.png": "/Menufy/static/media/11.aa80f73cb30fad1b76f2.png",
-    "static/media/12.jpeg": "/Menufy/static/media/12.161aeae689f273d8ee92.jpeg",
-    "static/media/slick.svg": "/Menufy/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/Menufy/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/Menufy/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/Menufy/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/Menufy/index.html",
-    "main.e4c27719.css.map": "/Menufy/static/css/main.e4c27719.css.map",
-    "main.3b0d2932.js.map": "/Menufy/static/js/main.3b0d2932.js.map"
+    "main.css": "/Menufy/src/index.js/static/css/main.21ec0a12.css",
+    "main.js": "/Menufy/src/index.js/static/js/main.7e86dd92.js",
+    "static/media/food.jpg": "/Menufy/src/index.js/static/media/food.b54a5ecc4a718f2126f3.jpg",
+    "static/media/MenuFy.png": "/Menufy/src/index.js/static/media/MenuFy.46471b3dddedfe4353d9.png",
+    "static/media/menufy2.png": "/Menufy/src/index.js/static/media/menufy2.8327f9a6644e7bba5473.png",
+    "static/media/11.png": "/Menufy/src/index.js/static/media/11.aa80f73cb30fad1b76f2.png",
+    "static/media/12.jpeg": "/Menufy/src/index.js/static/media/12.161aeae689f273d8ee92.jpeg",
+    "static/media/slick.svg": "/Menufy/src/index.js/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Menufy/src/index.js/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Menufy/src/index.js/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Menufy/src/index.js/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Menufy/src/index.js/index.html",
+    "main.21ec0a12.css.map": "/Menufy/src/index.js/static/css/main.21ec0a12.css.map",
+    "main.7e86dd92.js.map": "/Menufy/src/index.js/static/js/main.7e86dd92.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4c27719.css",
-    "static/js/main.3b0d2932.js"
+    "static/css/main.21ec0a12.css",
+    "static/js/main.7e86dd92.js"
   ]
 }
